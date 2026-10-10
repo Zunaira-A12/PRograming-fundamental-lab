@@ -1,2 +1,8 @@
-# PRograming-fundamental-lab
-programming fundamental lab tasks, c++ source code and practical work for BSCS student.
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "hello world" << endl;
+    return 0;
+}
