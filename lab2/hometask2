@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main(){
+    char ch;
+    cout<<"Enter small alphabet: ";
+    cin>>ch;
+    ch = ch - 32; // ASCII trick a=97, A=65 difference 32
+    cout<<"Upper: "<<ch;
+    return 0;
+}
