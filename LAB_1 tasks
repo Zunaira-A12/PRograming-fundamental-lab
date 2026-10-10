@@ -1,0 +1,32 @@
+//TASK1
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "hello world" << endl;
+    return 0;
+}
+//TASK2
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "You are 10 years old." << endl;
+    cout << "You are too young to play the game." << endl;
+    return 0;
+}
+//TASK3
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "*" << endl;
+    cout << "**" << endl;
+    cout << "***" << endl;
+    cout << "****" << endl;
+    cout << "*****" << endl;
+    return 0;
+}
